@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Aishwarya-Rashinkar
-- 👀 I’m interested in javascript,Python,Web Development
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in javascript,Python,Full stack developmwnt
+- 🌱 I’m currently learning javascript
